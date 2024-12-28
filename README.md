@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Bio -->
-My name is `Alfin Himawan Santosa`. I'm a student of `Vocational High School Telkom Malang`. Now, I'm focused on being a `Back End developer` with expertise in `Node JS & React JS`.
+I am a student currently pursuing a degree in Information Technology at Yogyakarta State University. I greatly enjoy the learning process and have a deep interest in the world of programming. My goal is to pursue a career in software or application development, where I can apply the knowledge and skills I have acquired. With a strong educational background in Information Technology, I feel prepared to contribute to the fullest extent with my time and competencies.
 
 <!-- Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
