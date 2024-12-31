@@ -18,7 +18,6 @@ I am a student currently pursuing a degree in Information Technology at Yogyakar
 
 <!-- Language -->
 ## Language
-## Language
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -34,4 +33,4 @@ I am a student currently pursuing a degree in Information Technology at Yogyakar
 
 
 ![profile](https://komarev.com/ghpvc/?username=alfinhimawan&color=yellow)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alfinhimawan&color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=alfinhimawan&color=red) -->
