@@ -33,4 +33,5 @@ I am a student currently pursuing a degree in Information Technology at Yogyakar
 
 
 ![profile](https://komarev.com/ghpvc/?username=alfinhimawan&color=yellow)
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=alfinhimawan&color=red) -->
+![visitors](https://shields.io/badge/dynamic/json?color=red&label=visitors&query=value&url=https://api.countapi.xyz/hit/alfinhimawan/visits)
+
