@@ -1,7 +1,9 @@
 <h1 align="center">Hello Everyone 👋</h1>
 
 <!-- Horizontal Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
 
 ### 🎓 About Me
 
@@ -15,7 +17,9 @@ I am a **student** currently pursuing a degree in **Information Technology** at 
 🚀 **Career Aspirations**:  
 I aim to contribute to the tech industry with my skills, specializing in creating efficient and innovative software.
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
 
 ### 📊 GitHub Stats
 
@@ -25,11 +29,13 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
 
 ### 🛠️ Languages and Tools
 
-<p>
+<p align="center">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
@@ -43,7 +49,9 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" />
 </p>
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
 
 ### 👀 Visitors
 
@@ -52,14 +60,18 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
   <img src="https://hits.sh/github.com/alfinhimawan.svg?view&t=views" alt="Profile Hits" />
 </p>
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
 
 ### 📂 Featured Projects
 
 Take a look at my pinned repositories to see some of my best work!  
 👉 [View My Repositories](https://github.com/alfinhimawan?tab=repositories)
 
-<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
 
 ### 📫 Get in Touch
 
