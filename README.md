@@ -22,7 +22,7 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
