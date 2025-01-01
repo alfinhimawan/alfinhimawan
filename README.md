@@ -7,15 +7,16 @@
 
 ### 🎓 About Me
 
-I am a **student** currently pursuing a degree in **Information Technology** at **Yogyakarta State University (UNY)**.
+Hi, I'm **Alfin Himawan Santosa**, a passionate **Information Technology** student at **Yogyakarta State University (UNY)**. I thrive on developing software solutions that make a difference. 💻
 
-💻 **What I Do**:
+✨ **What I Do**:
 
-- Passionate about programming, software, and application development.
-- Focused on learning and creating impactful tech solutions.
+- 💡 Creating **innovative tech solutions**.
+- 🔧 **Developing software** with a focus on performance and scalability.
+- 📚 **Constantly learning** new technologies to stay on the cutting edge.
 
-🚀 **Career Aspirations**:  
-I aim to contribute to the tech industry with my skills, specializing in creating efficient and innovative software.
+🌟 **Career Aspirations**:
+I aspire to **innovate** and **lead** in the tech industry by building **efficient** and **impactful software** that serves a meaningful purpose.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
@@ -24,39 +25,39 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=radical" alt="Top Languages" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="350" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 🛠️ Languages and Tools
+### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 👀 Visitors
+### 👀 Visitors & Engagement
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfinhimawan&color=yellow" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=alfinhimawan&color=brightgreen" alt="Profile Visitors" />
   <img src="https://hits.sh/github.com/alfinhimawan.svg?view&t=views" alt="Profile Hits" />
 </p>
 
@@ -66,8 +67,13 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
 
 ### 📂 Featured Projects
 
-Take a look at my pinned repositories to see some of my best work!  
+Take a look at some of my best work by visiting my repositories!  
 👉 [View My Repositories](https://github.com/alfinhimawan?tab=repositories)
+
+🚀 **Check out my latest projects**:
+
+- [Project 1](#): Description of the project.
+- [Project 2](#): Description of another cool project.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
@@ -75,4 +81,10 @@ Take a look at my pinned repositories to see some of my best work!
 
 ### 📫 Get in Touch
 
-- Email: [alfinhimawan99@gmail.com](mailto:alfinhimawan99@gmail.com)
+Feel free to connect with me if you want to collaborate or just chat about technology!
+
+- 📧 Email: [alfinhimawan99@gmail.com](mailto:alfinhimawan99@gmail.com)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
+</p>
