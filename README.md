@@ -70,11 +70,6 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
 Take a look at some of my best work by visiting my repositories!  
 👉 [View My Repositories](https://github.com/alfinhimawan?tab=repositories)
 
-🚀 **Check out my latest projects**:
-
-- [Project 1](#): Description of the project.
-- [Project 2](#): Description of another cool project.
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
