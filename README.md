@@ -5,11 +5,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 🎓 About Me
+### 🎓 **About Me** 
 
 Hi, I'm **Alfin Himawan Santosa**, a passionate **Information Technology** student at **Yogyakarta State University (UNY)**. I thrive on developing software solutions that make a difference. 💻
 
-✨ **What I Do**:
+✨ **What I Do:**
 
 - 💡 Creating **innovative tech solutions**.
 - 🔧 **Developing software** with a focus on performance and scalability.
@@ -22,7 +22,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 📊 GitHub Stats
+### 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" width="350" />
@@ -34,7 +34,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 🛠️ Tech Stack & Tools I Use
+### 🛠️ **Tech Stack & Tools I Use** 
 
 **Programming Languages**
 
@@ -59,7 +59,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
 
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="PostgreSQL" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" />
 </p>
 
@@ -67,7 +67,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 👀 Visitors & Engagement
+### 👀 **Visitors & Engagement**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alfinhimawan&color=brightgreen" alt="Profile Visitors" />
@@ -78,7 +78,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 📂 Featured Projects
+### 📂 **Featured Projects**
 
 Take a look at some of my best work by visiting my repositories!  
 👉 [View My Repositories](https://github.com/alfinhimawan?tab=repositories)
@@ -87,7 +87,7 @@ Take a look at some of my best work by visiting my repositories!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 📬 Let's Connect!
+### 📬 **Let's Connect!**
 
 I'd love to hear from you if you’re interested in collaborating or just want to chat! 🤝
 
