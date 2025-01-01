@@ -74,11 +74,12 @@ Take a look at some of my best work by visiting my repositories!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 📫 Get in Touch
+### 📬 Let's Connect!
 
-Feel free to connect with me if you want to collaborate or just chat about technology!
+I'd love to hear from you if you’re interested in collaborating or just want to chat! 🤝
 
-- 📧 Email: [alfinhimawan99@gmail.com](mailto:alfinhimawan99@gmail.com)
+- ✉️ **Email**: [alfinhimawan99@gmail.com](mailto:alfinhimawan99@gmail.com)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/alfinhimawan/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
