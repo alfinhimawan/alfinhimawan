@@ -15,17 +15,17 @@ I am a **student** currently pursuing a degree in **Information Technology** at 
 🚀 **Career Aspirations**:  
 I aim to contribute to the tech industry with my skills, specializing in creating efficient and innovative software.
 
----
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Languages and Tools
 
@@ -43,7 +43,7 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" />
 </p>
 
----
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👀 Visitors
 
@@ -52,14 +52,14 @@ I aim to contribute to the tech industry with my skills, specializing in creatin
   <img src="https://hits.sh/github.com/alfinhimawan.svg?view&t=views" alt="Profile Hits" />
 </p>
 
----
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📂 Featured Projects
 
 Take a look at my pinned repositories to see some of my best work!  
 👉 [View My Repositories](https://github.com/alfinhimawan?tab=repositories)
 
----
+<br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 Get in Touch
 
