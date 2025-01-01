@@ -25,8 +25,8 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" height="350" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="350" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alfinhimawan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=radical" alt="Top Languages" width="350" />
 </p>
 
@@ -34,20 +34,33 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack & Tools I Use
+
+**Programming Languages**
 
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
+</p>
+
+**Frameworks & Libraries**
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Bootstrap-logo.svg" alt="Bootstrap" />
+</p>
+
+**Databases & Tools**
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="PostgreSQL" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" />
 </p>
 
 <p align="center">
