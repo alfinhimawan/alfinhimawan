@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 🎓 **About Me** 
+### 🎓 **About Me**
 
 Hi, I'm **Alfin Himawan Santosa**, a passionate **Information Technology** student at **Yogyakarta State University (UNY)**. I thrive on developing software solutions that make a difference. 💻
 
@@ -34,7 +34,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-divider">
 </p>
 
-### 🛠️ **Tech Stack & Tools I Use** 
+### 🛠️ **Tech Stack & Tools I Use**
 
 **Programming Languages**
 
@@ -43,6 +43,8 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/886e2b44f26f9a2b64373c4c28f6c3b9a3d3ddc9/topics/html/html.png" alt="HTML" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/886e2b44f26f9a2b64373c4c28f6c3b9a3d3ddc9/topics/css/css.png" alt="CSS" />
 </p>
 
 **Frameworks & Libraries**
