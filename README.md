@@ -43,8 +43,8 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/886e2b44f26f9a2b64373c4c28f6c3b9a3d3ddc9/topics/html/html.png" alt="HTML" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/886e2b44f26f9a2b64373c4c28f6c3b9a3d3ddc9/topics/css/css.png" alt="CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
 </p>
 
 **Frameworks & Libraries**
