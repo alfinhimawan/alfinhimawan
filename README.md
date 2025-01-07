@@ -26,7 +26,7 @@ I aspire to **innovate** and **lead** in the tech industry by building **efficie
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfinhimawan&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfinhimawan&theme=radical" alt="GitHub Streak" width="350" />
+  <img src="https://streak-stats.demolab.com/?user=alfinhimawan&theme=radical" alt="GitHub Streak" width="350" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfinhimawan&layout=compact&theme=radical" alt="Top Languages" width="350" />
 </p>
 
